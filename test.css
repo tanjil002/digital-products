@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    color: red;
+    cursor: url("smiling-face-emoji_6735-648.webp"),auto;
+    /* cursor: pointer; */
+}
